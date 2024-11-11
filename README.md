@@ -1,4 +1,4 @@
-# Tatum Domain Address Fetcher
+# Tatum Domain Address Fetcher 
 
 This repository provides a simple way to retrieve an Ethereum address based on a given domain name using Tatum SDK and Space ID. It enables developers to query blockchain addresses associated with specific domains efficiently.
 
@@ -18,8 +18,8 @@ Navigate into the project directory:
 ```bash
 cd Tatum
 
-### 2. Install Dependencies
-Ensure you have pnpm installed to manage dependencies. Then, install the required packages:
+**### 2. Install Dependencies # Tatum Domain Address Fetcher
+**Ensure you have pnpm installed to manage dependencies. Then, install the required packages:
 
 ```bash
 pnpm install
