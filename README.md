@@ -18,13 +18,13 @@ Navigate into the project directory:
 ```bash
 cd Tatum
 
-###2. Install Dependencies
+### 2. Install Dependencies
 Ensure you have pnpm installed to manage dependencies. Then, install the required packages:
 
 ```bash
 pnpm install
 
-###3. Fetch Ethereum Address by Domain
+### 3. Fetch Ethereum Address by Domain
 You can retrieve an Ethereum address associated with a domain name by running the following command:
 
 ```bash
